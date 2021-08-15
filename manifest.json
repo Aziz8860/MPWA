@@ -1,0 +1,17 @@
+{
+    "name": "Info Liga App",
+    "gcm_sender_id": "993153214111",
+    "short_name": "Info Liga App",
+    "description": "League Information Application",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#40407C",
+    "theme_color": "#40407C",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "500x500",
+            "type": "image/png"
+        }
+    ]
+}
